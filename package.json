@@ -1,0 +1,15 @@
+{
+  "name": "repo-scaffold",
+  "version": "1.0.0",
+  "description": "Intelligent CLAUDE.md & Skills generator for Claude Code",
+  "bin": {
+    "repo-scaffold": "./scripts/install.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "type": "module",
+  "license": "MIT",
+  "author": "RepoScaffold Contributors",
+  "homepage": "https://github.com/AnantKumar17/repo-scaffold"
+}

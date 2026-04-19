@@ -1,0 +1,8 @@
+{
+  "name": "repo-scaffold",
+  "version": "1.0.0",
+  "description": "Analyzes your repository and generates CLAUDE.md and project-specific skills",
+  "author": "RepoScaffold Contributors",
+  "homepage": "https://github.com/AnantKumar17/repo-scaffold",
+  "license": "MIT"
+}
